@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Análise e desenvolvimento de sistemas 
 - 😄 Pronouns: ele/dele
-- ⚡ Atualmente aprendendo mais sobre Cshap
+
 
 <div align="center">
   <a href="https://github.com/GabrielHenriquedev">
